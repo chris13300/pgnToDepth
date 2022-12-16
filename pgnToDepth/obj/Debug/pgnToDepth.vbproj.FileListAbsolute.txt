@@ -1,0 +1,9 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\pgnToDepth\pgnToDepth\bin\Debug\pgnToDepth.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\pgnToDepth\pgnToDepth\bin\Debug\pgnToDepth.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\pgnToDepth\pgnToDepth\bin\Debug\pgnToDepth.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\pgnToDepth\pgnToDepth\bin\Debug\pgnToDepth.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\pgnToDepth\pgnToDepth\obj\Debug\pgnToDepth.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\pgnToDepth\pgnToDepth\obj\Debug\pgnToDepth.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\pgnToDepth\pgnToDepth\obj\Debug\pgnToDepth.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\pgnToDepth\pgnToDepth\obj\Debug\pgnToDepth.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\pgnToDepth\pgnToDepth\obj\Debug\pgnToDepth.pdb
